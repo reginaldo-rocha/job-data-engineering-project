@@ -1,5 +1,5 @@
 # 🚀 Job Market Insights  
-### Pipeline de Dados com API Pública, Python e SQL
+### Pipeline de Dados com API Pública, Python e SQL-Projeto 01
 
 <img width="1536" height="1024" alt="ChatGPT Image 17 de mai  de 2026, 16_31_28" src="https://github.com/user-attachments/assets/13fbb38e-93d0-47b8-a1b8-ad5c44dd0cb1" />
 
