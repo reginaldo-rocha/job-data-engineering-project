@@ -62,3 +62,23 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 ---
 
 ## 📁 Estrutura do Projeto
+´´´
+job-data-project/
+│
+├── data/
+│ ├── raw_jobs.json
+│ ├── clean_jobs.csv
+│
+├── scripts/
+│ ├── extract.py
+│ ├── transform.py
+│ ├── load.py
+│ ├── analysis.py
+│
+├── assets/
+│ └── fluxo.png
+│
+├── jobs.db
+├── queries.sql
+└── README.md
+´´´
