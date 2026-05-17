@@ -62,7 +62,7 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 ---
 
 ## 📁 Estrutura do Projeto
-´´´
+```
 job-data-project/
 │
 ├── data/
@@ -81,4 +81,4 @@ job-data-project/
 ├── jobs.db
 ├── queries.sql
 └── README.md
-´´´
+```
