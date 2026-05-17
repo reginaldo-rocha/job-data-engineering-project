@@ -22,8 +22,6 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 
 ## 🏗️ Arquitetura do Projeto
 
-![Fluxo do Projeto](assets/fluxo.png)
-
 ---
 
 ## 🔄 Pipeline de Dados
