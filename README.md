@@ -83,17 +83,20 @@ job-data-project/
 📈 Resultados
 
 O projeto permite identificar:
-
+```
 Tendências salariais por cargo
 Empresas com maior volume de contratações
 Distribuição geográfica das vagas
 Insights estratégicos sobre o mercado de trabalho
+```
 
 🔥 Diferenciais
+```
 Pipeline completo (API → Python → SQL)
 Dados reais (não estáticos)
 Organização profissional de projeto
 Aplicação prática para análise de mercado
+```
 
 👨‍💻 Autor
 
