@@ -97,8 +97,6 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 - Requests
 - SQLite
 - SQL
->>>>>>> b31aa07322384ae7c6ea93bf711cbcdd70e3f01e
-- Matplotlib
 
 ---
 
