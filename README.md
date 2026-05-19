@@ -25,15 +25,11 @@ AWS + Docker + Airflow
 
 # 📌 Overview
 
-This project simulates a real-world Data Engineering pipeline using Python and SQL.
+Este projeto simula um fluxo de trabalho de Engenharia de Dados do mundo real usando Python e SQL.
 
-The pipeline extracts job market data from a public API, transforms the data, stores it in a dimensional Data Warehouse model, and generates analytical insights.
+O fluxo de trabalho extrai dados do mercado de trabalho a partir de uma API pública, transforma os dados, armazena-os em um modelo de Data Warehouse dimensional e gera insights analíticos.
 
 ---
-
-# 🏗️ Architecture
-
-![Architecture](assets/architecture.png)
 
 ---
 
