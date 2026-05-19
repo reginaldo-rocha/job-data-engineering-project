@@ -102,8 +102,6 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 
 ---
 
-<<<<<<< HEAD
-# 📂 Project Structure
 
 ![Structure](assets/project_structure.png)
 
