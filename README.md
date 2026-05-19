@@ -12,6 +12,9 @@
 ## 🥇 Version 1
 API + SQL (base técnica)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88f4813b-f108-4f22-b62a-3b38d1bde6fe" />
+
+
 ## 🥈 Version 2
 Data Warehouse + Star Schema
 
@@ -45,9 +48,7 @@ O fluxo de trabalho extrai dados do mercado de trabalho a partir de uma API púb
 - Requests
 =======
 # 🚀 Job Market Insights  
-### Pipeline de Dados com API Pública, Python e SQL-Projeto 01
-
-<img width="1536" height="1024" alt="ChatGPT Image 17 de mai  de 2026, 16_31_28" src="https://github.com/user-attachments/assets/13fbb38e-93d0-47b8-a1b8-ad5c44dd0cb1" />
+### Pipeline de Dados com API Pública, Python e SQL-Projeto 0
 
 
 
