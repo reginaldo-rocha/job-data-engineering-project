@@ -25,7 +25,7 @@ Data Warehouse + Star Schema
 Automation + Historical Pipeline
 
 ## 🏆 Version 4
-AWS + Docker + Airflow
+Cloud na AWS + orquestração
 
 ---
 
