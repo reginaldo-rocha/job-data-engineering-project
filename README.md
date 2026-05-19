@@ -102,10 +102,7 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 
 ---
 
-
-![Structure](assets/project_structure.png)
-
----
+--
 
 # 🔄 Pipeline Flow
 
