@@ -119,6 +119,7 @@ API → RAW → TRANSFORM → DATA WAREHOUSE → SQL ANALYTICS
 - dim_company
 - dim_location
 - dim_job
+<img width="1014" height="408" alt="2" src="https://github.com/user-attachments/assets/b8d0aa91-946f-4037-853e-e010b6fdad3b" />
 
 ---
 
