@@ -15,6 +15,9 @@ API + SQL (base técnica)
 ## 🥈 Version 2
 Data Warehouse + Star Schema
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9531f54e-ad7f-457c-b5d9-9d2058c9be58" />
+
+
 ## 🥉 Version 3
 Automation + Historical Pipeline
 
