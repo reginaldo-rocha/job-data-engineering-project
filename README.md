@@ -145,11 +145,7 @@ GROUP BY d.title;
 
 ![Salary Chart](assets/salary_chart.png)
 
----
-
-# 💾 Database Example
-
-![Database](assets/database.png)
+--
 
 ---
 
@@ -180,12 +176,7 @@ python main.py
 - Apache Airflow
 - AWS Cloud
 
----
-
-# 👨‍💻 Author
-
-Reginaldo Rocha
-=======
+--=
 ## 📁 Estrutura do Projeto
 ```
 job-data-project/
@@ -228,4 +219,4 @@ Aplicação prática para análise de mercado
 👨‍💻 Autor
 
 Projeto desenvolvido por Reginaldo Rocha
->>>>>>> b31aa07322384ae7c6ea93bf711cbcdd70e3f01e
+
