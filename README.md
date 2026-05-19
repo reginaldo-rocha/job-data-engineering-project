@@ -136,7 +136,8 @@ GROUP BY d.title;
 
 # 🖼️ Query Example
 
-![Query Result](assets/query_result.png)
+<img width="1359" height="759" alt="Data Warehouse real" src="https://github.com/user-attachments/assets/ba89ed32-4747-4b09-8043-157550f4877c" />
+
 
 ---
 
