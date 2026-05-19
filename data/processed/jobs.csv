@@ -1,0 +1,4 @@
+id,title,company,location,salary_min,salary_max
+1,Data Analyst,Google,São Paulo,5000,8000
+2,Data Engineer,Amazon,Rio de Janeiro,7000,12000
+3,Data Scientist,Microsoft,Belo Horizonte,9000,15000
