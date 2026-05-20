@@ -12,28 +12,30 @@
 ## 🥇 Version 1
 API + SQL (base técnica)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88f4813b-f108-4f22-b62a-3b38d1bde6fe" />
+
+
 ## 🥈 Version 2
 Data Warehouse + Star Schema
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9531f54e-ad7f-457c-b5d9-9d2058c9be58" />
+
 
 ## 🥉 Version 3
 Automation + Historical Pipeline
 
 ## 🏆 Version 4
-AWS + Docker + Airflow
+Cloud na AWS + orquestração
 
 ---
 
 # 📌 Overview
 
-This project simulates a real-world Data Engineering pipeline using Python and SQL.
+Este projeto simula um fluxo de trabalho de Engenharia de Dados do mundo real usando Python e SQL.
 
-The pipeline extracts job market data from a public API, transforms the data, stores it in a dimensional Data Warehouse model, and generates analytical insights.
+O fluxo de trabalho extrai dados do mercado de trabalho a partir de uma API pública, transforma os dados, armazena-os em um modelo de Data Warehouse dimensional e gera insights analíticos.
 
 ---
-
-# 🏗️ Architecture
-
-![Architecture](assets/architecture.png)
 
 ---
 
@@ -46,9 +48,7 @@ The pipeline extracts job market data from a public API, transforms the data, st
 - Requests
 =======
 # 🚀 Job Market Insights  
-### Pipeline de Dados com API Pública, Python e SQL-Projeto 01
-
-<img width="1536" height="1024" alt="ChatGPT Image 17 de mai  de 2026, 16_31_28" src="https://github.com/user-attachments/assets/13fbb38e-93d0-47b8-a1b8-ad5c44dd0cb1" />
+### Pipeline de Dados com API Pública, Python e SQL-Projeto 0
 
 
 
@@ -101,17 +101,10 @@ Demonstrar na prática a construção de um pipeline de dados completo:
 - Requests
 - SQLite
 - SQL
->>>>>>> b31aa07322384ae7c6ea93bf711cbcdd70e3f01e
-- Matplotlib
 
 ---
 
-<<<<<<< HEAD
-# 📂 Project Structure
-
-![Structure](assets/project_structure.png)
-
----
+--
 
 # 🔄 Pipeline Flow
 
@@ -130,6 +123,7 @@ API → RAW → TRANSFORM → DATA WAREHOUSE → SQL ANALYTICS
 - dim_company
 - dim_location
 - dim_job
+<img width="1014" height="408" alt="2" src="https://github.com/user-attachments/assets/b8d0aa91-946f-4037-853e-e010b6fdad3b" />
 
 ---
 
@@ -146,7 +140,8 @@ GROUP BY d.title;
 
 # 🖼️ Query Example
 
-![Query Result](assets/query_result.png)
+<img width="1359" height="759" alt="Data Warehouse real" src="https://github.com/user-attachments/assets/ba89ed32-4747-4b09-8043-157550f4877c" />
+
 
 ---
 
@@ -154,11 +149,7 @@ GROUP BY d.title;
 
 ![Salary Chart](assets/salary_chart.png)
 
----
-
-# 💾 Database Example
-
-![Database](assets/database.png)
+--
 
 ---
 
@@ -189,12 +180,7 @@ python main.py
 - Apache Airflow
 - AWS Cloud
 
----
-
-# 👨‍💻 Author
-
-Reginaldo Rocha
-=======
+--=
 ## 📁 Estrutura do Projeto
 ```
 job-data-project/
@@ -237,4 +223,4 @@ Aplicação prática para análise de mercado
 👨‍💻 Autor
 
 Projeto desenvolvido por Reginaldo Rocha
->>>>>>> b31aa07322384ae7c6ea93bf711cbcdd70e3f01e
+
