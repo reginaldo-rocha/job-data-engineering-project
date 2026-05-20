@@ -241,10 +241,16 @@ job-data-project/
 ├── jobs.db
 └── config.py
 ```
+projeto 4
 
-👨‍💻 Autor
+ aws-bucket.png
+ <img width="1363" height="651" alt="image" src="https://github.com/user-attachments/assets/53b253b9-5888-4a3f-8672-50156385ace9" />
 
-Projeto desenvolvido por Reginaldo Rocha
+
+ pipeline-terminal.png
+<img width="1339" height="712" alt="image" src="https://github.com/user-attachments/assets/6db0a497-a6b2-4dfb-9a50-4252c69d96a7" />
+
+ 
 # ☁️ Cloud Architecture
 
 This project was extended to a cloud-ready data engineering pipeline using AWS services.
