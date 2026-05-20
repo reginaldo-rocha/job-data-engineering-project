@@ -172,39 +172,20 @@ GROUP BY d.title;
 ```bash
 python main.py
 ```
+pipeline_execution.png
+<img width="1344" height="760" alt="projeto 3 pipiline" src="https://github.com/user-attachments/assets/a0585258-3370-4a38-b05a-7749d9a58db6" />
+
+sqlite_tables.png
+<img width="1356" height="759" alt="projeto 3 tabalas fac jobs" src="https://github.com/user-attachments/assets/8b50841f-7d9c-476a-a02c-c5b0893c2569" />
+project_structure.png
+<img width="1347" height="766" alt="projeto 3" src="https://github.com/user-attachments/assets/c1a41375-ec5b-4273-9f2a-5a55b01b5e6e" />
+
+resultado
+<img width="1358" height="686" alt="resultado" src="https://github.com/user-attachments/assets/9b6f6c27-e8fa-4bde-8da0-64c5f3871cec" />
 
 ---
 
-# 📌 Future Improvements
 
-- Pipeline automation
-- Historical data tracking
-- Docker
-- Apache Airflow
-- AWS Cloud
-
---=
-## 📁 Estrutura do Projeto
-```
-job-data-project/
-│
-├── data/
-│ ├── raw_jobs.json
-│ ├── clean_jobs.csv
-│
-├── scripts/
-│ ├── extract.py
-│ ├── transform.py
-│ ├── load.py
-│ ├── analysis.py
-│
-├── assets/
-│ └── fluxo.png
-│
-├── jobs.db
-├── queries.sql
-└── README.md
-```
 📈 Resultados
 
 O projeto permite identificar:
