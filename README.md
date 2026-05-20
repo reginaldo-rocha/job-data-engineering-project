@@ -30,6 +30,9 @@ Automation + Historical Pipeline
 ## 🏆 Version 4
 Cloud na AWS + orquestração
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70cf63f0-f5fa-4bd2-b449-c5abd7dfeda2" />
+
+
 ---
 
 # 📌 Overview
