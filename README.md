@@ -164,6 +164,74 @@ GROUP BY d.title;
 ```bash
 python main.py
 ```
+Projeto 3
+pipeline_execution.png
+<img width="1344" height="760" alt="projeto 3 pipiline" src="https://github.com/user-attachments/assets/a0585258-3370-4a38-b05a-7749d9a58db6" />
+
+sqlite_tables.png
+<img width="1356" height="759" alt="projeto 3 tabalas fac jobs" src="https://github.com/user-attachments/assets/8b50841f-7d9c-476a-a02c-c5b0893c2569" />
+project_structure.png
+<img width="1347" height="766" alt="projeto 3" src="https://github.com/user-attachments/assets/c1a41375-ec5b-4273-9f2a-5a55b01b5e6e" /
+Pipeline completa executada
+<img width="1347" height="766" alt="projeto 3" src="https://github.com/user-attachments/assets/8f7ffd33-ca12-4e51-b688-9d0dc962a3c7" />
+
+
+projeto 4
+
+ aws-bucket.png
+ <img width="1363" height="651" alt="image" src="https://github.com/user-attachments/assets/53b253b9-5888-4a3f-8672-50156385ace9" />
+
+
+ pipeline-terminal.png
+<img width="1339" height="712" alt="image" src="https://github.com/user-attachments/assets/6db0a497-a6b2-4dfb-9a50-4252c69d96a7" />
+
+ 
+# ☁️ Cloud Architecture
+
+This project was extended to a cloud-ready data engineering pipeline using AWS services.
+
+## AWS Services Used
+
+- Amazon S3 for raw and processed data storage
+- AWS EC2 for pipeline execution
+- Python + Pandas for ETL processing
+- SQL Analytics for business insights
+
+## Cloud Pipeline Flow
+
+API → RAW → TRANSFORM → AWS S3 → EC2 → DATA WAREHOUSE → SQL ANALYTICS
+
+## Features
+
+✔️ Automated ETL Pipeline  
+✔️ Historical Data Tracking  
+✔️ Cloud Storage  
+✔️ Batch Processing  
+✔️ SQL Analytics  
+✔️ Logging & Monitoring  
+
+## Cloud Components
+
+### Amazon S3
+Stores:
+- raw JSON files
+- processed CSV files
+
+### AWS EC2
+Responsible for:
+- running Python scripts
+- automating ETL pipeline
+- executing analytics process
+
+### SQL Analytics
+Used for:
+- salary analysis
+- company insights
+- job market trends
+
+```bash
+python main.py
+```
 pipeline_execution.png
 <img width="1344" height="760" alt="projeto 3 pipiline" src="https://github.com/user-attachments/assets/a0585258-3370-4a38-b05a-7749d9a58db6" />
 
@@ -241,55 +309,5 @@ job-data-project/
 ├── jobs.db
 └── config.py
 ```
-projeto 4
+Autor: Reginaldo Rocha
 
- aws-bucket.png
- <img width="1363" height="651" alt="image" src="https://github.com/user-attachments/assets/53b253b9-5888-4a3f-8672-50156385ace9" />
-
-
- pipeline-terminal.png
-<img width="1339" height="712" alt="image" src="https://github.com/user-attachments/assets/6db0a497-a6b2-4dfb-9a50-4252c69d96a7" />
-
- 
-# ☁️ Cloud Architecture
-
-This project was extended to a cloud-ready data engineering pipeline using AWS services.
-
-## AWS Services Used
-
-- Amazon S3 for raw and processed data storage
-- AWS EC2 for pipeline execution
-- Python + Pandas for ETL processing
-- SQL Analytics for business insights
-
-## Cloud Pipeline Flow
-
-API → RAW → TRANSFORM → AWS S3 → EC2 → DATA WAREHOUSE → SQL ANALYTICS
-
-## Features
-
-✔️ Automated ETL Pipeline  
-✔️ Historical Data Tracking  
-✔️ Cloud Storage  
-✔️ Batch Processing  
-✔️ SQL Analytics  
-✔️ Logging & Monitoring  
-
-## Cloud Components
-
-### Amazon S3
-Stores:
-- raw JSON files
-- processed CSV files
-
-### AWS EC2
-Responsible for:
-- running Python scripts
-- automating ETL pipeline
-- executing analytics process
-
-### SQL Analytics
-Used for:
-- salary analysis
-- company insights
-- job market trends
