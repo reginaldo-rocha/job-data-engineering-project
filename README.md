@@ -180,9 +180,6 @@ sqlite_tables.png
 project_structure.png
 <img width="1347" height="766" alt="projeto 3" src="https://github.com/user-attachments/assets/c1a41375-ec5b-4273-9f2a-5a55b01b5e6e" />
 
-resultado
-<img width="1358" height="686" alt="resultado" src="https://github.com/user-attachments/assets/9b6f6c27-e8fa-4bde-8da0-64c5f3871cec" />
-
 ---
 
 
