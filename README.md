@@ -189,25 +189,71 @@ AWS S3 Bucket
 <img width="1360" height="662" alt="image" src="https://github.com/user-attachments/assets/495ffc67-2d35-4409-8eed-190cd5889d37" />
 
 
----
-
-
-📈 Resultados
-
-O projeto permite identificar:
 ```
-Tendências salariais por cargo
-Empresas com maior volume de contratações
-Distribuição geográfica das vagas
-Insights estratégicos sobre o mercado de trabalho
-```
-
-🔥 Diferenciais
-```
-Pipeline completo (API → Python → SQL)
-Dados reais (não estáticos)
-Organização profissional de projeto
-Aplicação prática para análise de mercado
+job-data-project/
+│
+├── assets/
+│   ├── fluxograma-project1.png
+│   ├── fluxograma-project2.png
+│   ├── fluxograma-project3.png
+│   ├── fluxograma-project4.png
+│   ├── pipeline_execution.png
+│   ├── project_structure.png
+│   ├── historical_data.png
+│   ├── pipeline_logs.png
+│   ├── sqlite_tables.png
+│   ├── aws_s3_bucket.png
+│   ├── salary_chart.png
+│   └── git_push_project3.png
+│
+├── data/
+│   │
+│   ├── raw/
+│   │   └── jobs.json
+│   │
+│   └── processed/
+│       └── jobs.csv
+│
+├── logs/
+│   └── pipeline.log
+│
+├── scripts/
+│   │
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   ├── analysis.py
+│   ├── upload_s3.py
+│   ├── cloud_load.py
+│   └── scheduler.py
+│
+├── sql/
+│   │
+│   ├── create_tables.sql
+│   ├── analytics.sql
+│   ├── historical_queries.sql
+│   └── cloud_queries.sql
+│
+├── docker/
+│   ├── Dockerfile
+│   └── docker-compose.yml
+│
+├── airflow/
+│   └── dags/
+│       └── etl_pipeline_dag.py
+│
+├── aws/
+│   ├── ec2_setup.md
+│   ├── s3_commands.md
+│   ├── rds_setup.md
+│   └── cloud_architecture.md
+│
+├── requirements.txt
+├── .gitignore
+├── README.md
+├── main.py
+├── jobs.db
+└── config.py
 ```
 
 👨‍💻 Autor
