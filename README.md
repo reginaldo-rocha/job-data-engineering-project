@@ -164,11 +164,6 @@ GROUP BY d.title;
 ```bash
 python main.py
 ```
-
-Project 3 Update — 
-
-<img width="1338" height="732" alt="image" src="https://github.com/user-attachments/assets/64c83341-9edf-4d7e-b903-40a4049cb13d" />
-
 pipeline_execution.png
 <img width="1344" height="760" alt="projeto 3 pipiline" src="https://github.com/user-attachments/assets/a0585258-3370-4a38-b05a-7749d9a58db6" />
 
