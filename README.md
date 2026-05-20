@@ -245,4 +245,45 @@ job-data-project/
 👨‍💻 Autor
 
 Projeto desenvolvido por Reginaldo Rocha
+# ☁️ Cloud Architecture
 
+This project was extended to a cloud-ready data engineering pipeline using AWS services.
+
+## AWS Services Used
+
+- Amazon S3 for raw and processed data storage
+- AWS EC2 for pipeline execution
+- Python + Pandas for ETL processing
+- SQL Analytics for business insights
+
+## Cloud Pipeline Flow
+
+API → RAW → TRANSFORM → AWS S3 → EC2 → DATA WAREHOUSE → SQL ANALYTICS
+
+## Features
+
+✔️ Automated ETL Pipeline  
+✔️ Historical Data Tracking  
+✔️ Cloud Storage  
+✔️ Batch Processing  
+✔️ SQL Analytics  
+✔️ Logging & Monitoring  
+
+## Cloud Components
+
+### Amazon S3
+Stores:
+- raw JSON files
+- processed CSV files
+
+### AWS EC2
+Responsible for:
+- running Python scripts
+- automating ETL pipeline
+- executing analytics process
+
+### SQL Analytics
+Used for:
+- salary analysis
+- company insights
+- job market trends
