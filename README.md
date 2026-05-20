@@ -175,11 +175,7 @@ pipeline_execution.png
 sqlite_tables.png
 <img width="1356" height="759" alt="projeto 3 tabalas fac jobs" src="https://github.com/user-attachments/assets/8b50841f-7d9c-476a-a02c-c5b0893c2569" />
 project_structure.png
-<img width="1347" height="766" alt="projeto 3" src="https://github.com/user-attachments/assets/c1a41375-ec5b-4273-9f2a-5a55b01b5e6e" />
-
-AWS S3 Bucket
-<img width="1360" height="662" alt="image" src="https://github.com/user-attachments/assets/495ffc67-2d35-4409-8eed-190cd5889d37" />
-
+<img width="1347" height="766" alt="projeto 3" src="https://github.com/user-attachments/assets/c1a41375-ec5b-4273-9f2a-5a55b01b5e6e" /
 
 ```
 job-data-project/
