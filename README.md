@@ -173,7 +173,7 @@ GROUP BY d.title;
 python main.py
 ```
 
-Project 3 Update — Automation and Historical Pipeline
+Project 3 Update — 
 
 <img width="1338" height="732" alt="image" src="https://github.com/user-attachments/assets/64c83341-9edf-4d7e-b903-40a4049cb13d" />
 
