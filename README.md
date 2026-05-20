@@ -24,6 +24,9 @@ Data Warehouse + Star Schema
 ## 🥉 Version 3
 Automation + Historical Pipeline
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/06bc2bab-1118-4f92-b62c-9b5376706be1" />
+
+
 ## 🏆 Version 4
 Cloud na AWS + orquestração
 
