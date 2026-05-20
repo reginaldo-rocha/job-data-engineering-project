@@ -41,17 +41,6 @@ Este projeto simula um fluxo de trabalho de Engenharia de Dados do mundo real us
 
 O fluxo de trabalho extrai dados do mercado de trabalho a partir de uma API pública, transforma os dados, armazena-os em um modelo de Data Warehouse dimensional e gera insights analíticos.
 
----
-
----
-
-# ⚙️ Technologies
-
-- Python
-- Pandas
-- SQL
-- SQLite
-- Requests
 =======
 # 🚀 Job Market Insights  
 ### Pipeline de Dados com API Pública, Python e SQL-Projeto 0
