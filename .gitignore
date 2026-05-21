@@ -1,5 +1,5 @@
+jobs.db
+logs/
 __pycache__/
 *.pyc
 .env
-jobs.db
-data/raw_jobs.json
