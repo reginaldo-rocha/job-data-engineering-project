@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine
+﻿from sqlalchemy import create_engine
 
 def load_data(df):
 
@@ -19,4 +19,4 @@ def load_data(df):
         index=False
     )
 
-    print("✅ Dados carregados no PostgreSQL!")
+    print("Dados carregados no PostgreSQL!")

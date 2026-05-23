@@ -1,8 +1,7 @@
-import requests
+﻿import requests
 import pandas as pd
 
 def extract_data():
-
     url = "https://remoteok.com/api"
 
     headers = {
@@ -16,7 +15,6 @@ def extract_data():
     jobs = []
 
     for item in data[1:]:
-
         jobs.append({
             "job_title": item.get("position"),
             "company": item.get("company"),
@@ -26,6 +24,6 @@ def extract_data():
 
     df = pd.DataFrame(jobs)
 
-    print("Dados extraídos!")
+    print("Dados extraidos!")
 
     return df

@@ -1,7 +1,23 @@
-import os
+from extract import extract_data
+from transform import transform_data
+from load import load_data
 
-os.system("python scripts/extract.py")
-os.system("python scripts/transform.py")
-os.system("python scripts/load.py")
+def main():
 
-print("Pipeline completo executado!")
+    print("Extraindo dados...")
+    df = extract_data()
+
+    print(df.head())
+
+    print("Transformando dados...")
+    df = transform_data(df)
+
+    print(df.head())
+
+    print("Carregando dados...")
+    load_data(df)
+
+    print("Pipeline completo executado!")
+
+if __name__ == "__main__":
+    main()
